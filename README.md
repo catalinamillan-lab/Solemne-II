@@ -97,6 +97,5 @@ computacional para crear sistemas interactivos?.
 -Suprematismo: geometría pura como forma de expresión, uso radical de colores primarios sobre fondos neutros, abstracción geométrica llevada al extremo, influencia: abstracción total, formas geométricas fundamentales.
 
 -**Registros**
-
-![texto alternativo imagen](captura1.png)
 ![texto alternativo imagen](captura2.png)
+
