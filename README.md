@@ -35,14 +35,14 @@ a los inputs del usuario.
 -Elementos fijos: Dos arcos rojos en las esquinas superior e inferior izquierda
 Rectángulos de colores primarios en diferentes posiciones (rojo, amarillo, azul, negro)
 Líneas negras que funcionan como ejes de referencia
-Círculos en diversos tamaños (amarillo, negro, azul)
+Círculos en diversos tamaños (amarillo, negro, azul).
 
 -Elementos dinámicos: Círculo amarillo central que varía de tamaño (80-220 píxeles)
 Dos rectángulos azules que oscilan de lado a lado (movimiento sinusoidal)
 Círculo azul que se desplaza horizontalmente continuamente
 Fondo que varía en brillo (220-255)
 Círculos aleatorios que aparecen cuando el usuario hace clic
-Anillo blanco semi-transparente que sigue al mouse
+Anillo blanco semi-transparente que sigue al mouse.
 
 -Elementos condicionales:
 
@@ -55,10 +55,10 @@ Anillo blanco semi-transparente que sigue al mouse
 -Outputs visuales continuos: Variación de brillo del fondo (escala 220-255) en tiempo real
 Cambio de tamaño del círculo central (escala 80-220 píxeles) suave y continuo
 Movimiento sinusoidal de dos rectángulos azules (oscilar lado a lado)
-Desplazamiento horizontal del círculo azul (bucle continuo)
+Desplazamiento horizontal del círculo azul (bucle continuo).
 
 -Outputs visuales discretos:Aparición de círculos aleatorios en posiciones y colores variables (por clic)
-Anillo blanco seguidor del mouse (solo en mitad izquierda)
+Anillo blanco seguidor del mouse (solo en mitad izquierda).
 Transformación de color: elementos negros ↔ blancos (por tecla)
 
 -Combinación:
@@ -81,4 +81,18 @@ sistema de reglas claras (variables, condicionales, bucles, funciones) puede
 producir una experiencia visual coherente que evoluciona en tiempo real.
 Pregunta central que responde:
 ¿Cómo pueden principios de diseño histórico (Bauhaus) traducirse a lógica
-computacional para crear sistemas interactivos?
+computacional para crear sistemas interactivos?.
+
+-Artistas visuales:
+-Piet Mondrian (1872-1944)
+
+-Composiciones abstractas con líneas negras y colores primarios, búsqueda del "equilibrio universal" mediante geometría, evolución desde el cubismo hacia la abstracción pura, inspiración directa: estructura visual, paleta de colores, composición asimétrica.
+
+-Josef Albers (1888-1976)
+
+-Maestro en Bauhaus, especialista en interacción del color, estudios sobre percepción visual y cómo los colores interactúan, composiciones geométricas modulares y parametrizables, influencia: uso de colores primarios, ritmo visual, variación sistemática.
+
+-Kazimir Malevich (1879-1935)
+
+-Suprematismo: geometría pura como forma de expresión, uso radical de colores primarios sobre fondos neutros, abstracción geométrica llevada al extremo, influencia: abstracción total, formas geométricas fundamentales.
+
